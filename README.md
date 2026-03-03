@@ -61,10 +61,5 @@ npm start
 - Use environment variables for credentials
 - Restrict service account permissions
 
-## License
-
-ISC
-
----
 
 For issues, visit the [GitHub repository](https://github.com/arshadziban/class_routine_bot/issues).
